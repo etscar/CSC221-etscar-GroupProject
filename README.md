@@ -13,3 +13,5 @@ Web-Scraping Project
 #### Invited
 1. Yang Kate Sun (ysun3@my.waketech.edu)
 
+#### Accepted 
+1. Yang Kate Sun (ysun3@my.waketech.edu) 4/24/2021
